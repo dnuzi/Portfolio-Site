@@ -8,14 +8,14 @@ A sleek, **full-stack creative portfolio template** built with modern tools like
 
 ### 📸 Site Preview
 
-![Portfolio Preview Screenshot](https://i.imgur.com/placeholder-preview.png)
+![Portfolio Preview Screenshot](https://github.com/dnuzi/mova-npm-media/blob/main/Screenshot%202026-01-21%20194857.png)
 <em>*(Full-site preview: Hero, works, skills, and chronometer in action. Replace with your actual screenshot for live vibes!)*</em>
 
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/placeholder-hero.gif" alt="Hero Animation" width="100%" />
-  <p><em>Live Demo: <a href="https://your-vercel-url.vercel.app">kelum-viduranga.vercel.app</a></em></p>
+  <img src="https://github.com/dnuzi/mova-npm-media/blob/main/movanest.gif" alt="Hero Animation" width="100%" />
+  <p><em>Live Demo: <a href="https://portfolio-site-rosy-nine.vercel.app/"></a>portfolio-site-rosy-nine.vercel.app</em></p>
 </div>
 
 ## ✨ Features
@@ -131,7 +131,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 This project is [MIT](LICENSE) licensed – use it freely, even commercially. Built with ❤️ from the sunny shores of Sri Lanka (Negombo vibes!).
 
 <div align="center">
-  <img src="https://i.imgur.com/placeholder-footer.jpg" alt="Footer Illustration" width="100%" />
+  <img src="https://github.com/dnuzi/mova-npm-media/blob/main/mova.gif" alt="Hero Animation" width="100%" />
 </div>
 
 ---
